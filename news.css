@@ -1,0 +1,151 @@
+body {
+    margin: 0;
+}
+
+.container {
+    background-color: black;
+    padding: 7px;
+
+
+}
+
+li {
+    text-decoration: none;
+    display: inline-flex;
+    color: grey;
+    text-align: start;
+
+}
+
+.third {
+    position: absolute;
+    right: 70px;
+    top: 27px;
+
+}
+
+.second {
+    position: absolute;
+    right: 250px;
+    top: 27px;
+}
+
+.first {
+    position: absolute;
+    right: 350px;
+    top: 27px;
+}
+
+
+
+.info {
+    text-decoration: none;
+    color: white;
+
+}
+
+a.info:hover {
+    color: grey;
+}
+
+img {
+    margin-left: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+a {
+    text-decoration: none;
+
+}
+
+.count {
+    display: inline-flex;
+    margin-top: 6px;
+    color: #222;
+    font-size: 16px;
+    line-height: 28px;
+
+
+}
+
+.icon {
+    width: 50px;
+    height: 50px;
+    padding: 15px;
+    margin: 0 auto;
+    border: 1px solid #777;
+    border-radius: 50%;
+    font-size: 24px;
+    line-height: 48px;
+
+}
+
+.d {
+    color: blue;
+    border-color: blue;
+}
+
+.e {
+    color: red;
+    border-color: red;
+}
+
+.r {
+    color: #00aced;
+    border-color: #00aced;
+}
+
+.tr {
+    color: #f60;
+    border-color: #f60;
+}
+
+.d:hover {
+    color: white;
+    background-color: blue;
+}
+
+.e:hover {
+    color: white;
+    background-color: red;
+}
+
+.r:hover {
+    color: white;
+    background-color: #00aced
+}
+
+.tr:hover {
+    color: white;
+    background-color: #f60
+}
+
+.price {
+    position: absolute;
+    right: 30px;
+    top: 100px;
+    padding:10px;
+}
+.navbar {
+    background-color: #DA0000;
+    padding: 25px;
+}
+.fields {
+    text-decoration: none;
+    color: white;
+    margin-left: 20px;
+    width: 6%;
+    display: inline-block;
+    font-size: larger;
+
+}
+a.fields:hover {
+    text-decoration: underline;
+}
+
+.fa-magnifying-glass {
+    /* artistik hereketi de arasdir */
+    color: white;
+}
